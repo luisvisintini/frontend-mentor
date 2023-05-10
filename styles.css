@@ -19,7 +19,6 @@ html {
 body {
     font-family: 'Outfit', sans-serif;
     background-color: var(--VeryDarkBlue);
-    min-height: 100vh;
 }
 
 main
